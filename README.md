@@ -10,7 +10,7 @@ Run exe file
 How to use program:
 ![image](https://github.com/user-attachments/assets/ab601a5e-1389-4d14-9e6f-129bd2bc64d5)
 
-run this program alonside wordle.
+Run this program alonside wordle.
 Type your starting word in wordle
 Type the same word into the program and hit enter
 Select the colors corresponding to the wordle output
